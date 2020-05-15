@@ -1,7 +1,8 @@
 console.log('运行成功==================')
 import program from 'commander';
-import util from './util';
+import * as util from './util';
 import applyFn from './index'
+import chalk from 'chalk'
 
 let actionMap = {
   init: {

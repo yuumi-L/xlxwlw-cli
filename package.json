@@ -1,10 +1,10 @@
 {
   "name": "hl-cli",
   "version": "1.0.0",
-  "description": "hl脚手架",
+  "description": "xlx脚手架",
   "main": "index.js",
   "bin": {
-    "hl": "./www/bin"
+    "xlx": "./www/bin"
   },
   "scripts": {
     "compile": "babel src -d dist",
