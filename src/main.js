@@ -8,7 +8,7 @@ let actionMap = {
   init: {
     description: 'generate a new project from a template',
     usage: [
-      'hl init templateName projectName'
+      'xlxwlw init templateName projectName'
     ],
     alias: 'inita'
   }

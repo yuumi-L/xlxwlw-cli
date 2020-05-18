@@ -1,6 +1,6 @@
 {
-  "name": "hl-cli",
-  "version": "1.0.0",
+  "name": "xlxwlw-cli",
+  "version": "1.0.2",
   "description": "xlx脚手架",
   "main": "index.js",
   "bin": {
