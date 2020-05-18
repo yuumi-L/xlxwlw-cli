@@ -1,6 +1,6 @@
 {
   "name": "xlxwlw-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "xlx脚手架",
   "main": "index.js",
   "bin": {
@@ -9,6 +9,10 @@
   "scripts": {
     "compile": "babel src -d dist",
     "watch": "npm run compile -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hongl0409/xlxwlw-cli.git"
   },
   "keywords": [],
   "author": "",
